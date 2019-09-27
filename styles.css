@@ -1,0 +1,29 @@
+html {
+  background: #f6f6f6;
+  color: #111111;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
+    sans-serif;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+}
+
+.hour-log {
+  width: 873px;
+  border: 1px solid #aaaaaa;
+  height: 1050px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+h2 {
+  font-weight: 500;
+}
