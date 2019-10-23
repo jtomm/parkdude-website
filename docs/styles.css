@@ -16,6 +16,12 @@ main {
   height: 1000px;
 }
 
+.graphs {
+  width: 873px;
+  border: 1px solid #aaaaaa;
+  height: 1000px;
+}
+
 ul {
   padding-left: 20px;
 }
